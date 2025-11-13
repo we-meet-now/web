@@ -34,3 +34,4 @@ Thumbs.db
 # Yarn Plug'n'Play
 .pnp*
 # Misc cache
+.DS_Store
